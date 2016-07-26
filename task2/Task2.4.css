@@ -1,0 +1,33 @@
+
+
+#allotment .fruits-list{
+    color: darkgrey;
+}
+.vegetables-list{
+    color: red;
+}
+#warehouse .fruits-list{
+    color: green;
+}
+#allotment h2{
+    color: darkorange;
+}
+#warehouse h2{
+    color: blue;
+}
+li {
+    font-weight: bold;
+}
+.students-table{
+    text-align: center;
+    font-weight: bold;
+}
+tbody{
+    background-color: green;
+    color: white;
+}
+.name{
+    text-align: left;
+    color: darkorange;
+    background-color: white;
+}
