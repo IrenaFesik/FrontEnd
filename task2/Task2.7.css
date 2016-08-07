@@ -1,0 +1,30 @@
+#red:checked ~ .red {
+    color: white;
+    background: red;
+    border-radius: 5px;
+    padding: 0 6px 2px;
+}
+#red:checked ~ label[for="red"]{
+    color: red;
+    text-decoration: underline;
+}
+#blue:checked ~ .blue {
+    color: white;
+    background: blue;
+    border-radius: 5px;
+    padding: 0 6px 2px;
+}
+#blue:checked ~ label[for="blue"] {
+    color: blue;
+    text-decoration: underline;
+}
+#green:checked ~ .green {
+    color: white;
+    background: green;
+    border-radius: 5px;
+    padding: 0 6px 2px;
+}
+#green:checked ~ label[for="green"] {
+    color: green;
+    text-decoration: underline;
+}
